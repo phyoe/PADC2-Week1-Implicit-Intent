@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="btn_share">Sharing</string>
+    <string name="btn_map">Navigating on the Map</string>
+    <string name="btn_phonecall">Making Phone Calls</string>
+    <string name="btn_choose_pic">Selecting Picture</string>
+    <string name="btn_taking_pic">Taking Picture with Camera</string>
+    <string name="btn_email">Sending Emails</string>
+    <string name="str_share_eng">Share</string>
+</resources>
