@@ -1,6 +1,16 @@
 # PADC2-Week1-Implicit-Intent
 This is PADC 2.0 Assignment ( Implicit Intent Test )
 
+Implicit Intent Assignment
+
+Create an android app that use implicit intents for the following actions.
+- Sharing with ShareCompat.
+- Navigating on the Map.
+- Making Phone Calls.
+- Sending Emails.
+- Taking Picture with Camera.
+- Selecting Picture from device storage.
+
 ![01 home screen](https://user-images.githubusercontent.com/5194798/26923531-5c620940-4c68-11e7-96f0-eca4b76b9dc6.jpg)
 ![02 share implicit intent](https://user-images.githubusercontent.com/5194798/26919532-119beae0-4c5c-11e7-9003-c034576d45cc.jpg)
 ![03 map implicit intent](https://user-images.githubusercontent.com/5194798/26919533-11ea979e-4c5c-11e7-8ef4-7c0286820954.jpg)
